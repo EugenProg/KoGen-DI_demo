@@ -140,6 +140,6 @@ fun MyScreen(
 
 3.  **KSP Can "Go Crazy".** In rare cases, the KSP cache can become corrupted. The standard treatment is a full project clean (`./gradlew clean`) and a rebuild.
 
-```
+[README.ru](https://github.com/EugenProg/KoGen-DI_demo/blob/main/README.ru.md)
 
-[Readme.ru.md](https://github.com/EugenProg/KoGen-DI_demo/edit/main/README.ru.md)
+```
